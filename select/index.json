@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Noz. - 『ヘッジホッグ』(Hedgehog)【Self Cover】",
+  "base_artist": "Noz.",
+  "createdAt": "2026-02-15T02:02:47.583137Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NÓŻ",
+      "artist": "Qry",
+      "has_synced": false,
+      "path": "select/01_NÓŻ_Qry.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "nóż motylkowy",
+      "artist": "Chivas feat. White 2115",
+      "has_synced": true,
+      "path": "select/02_nóż_motylkowy_Chivas_feat._White_2115.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "nóż motylkowy",
+      "artist": "Chivas/White 2115",
+      "has_synced": true,
+      "path": "select/03_nóż_motylkowy_Chivas_White_2115.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nóż",
+      "artist": "Męskie Granie Orkiestra feat. Igo, Mrozu & Vito Bambino",
+      "has_synced": true,
+      "path": "select/04_Nóż_Męskie_Granie_Orkiestra_feat._Igo,_Mrozu_&_Vito_Bambino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nóż",
+      "artist": "Męskie Granie Orkiestra",
+      "has_synced": true,
+      "path": "select/05_Nóż_Męskie_Granie_Orkiestra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fest Noz De Paname",
+      "artist": "Manau",
+      "has_synced": false,
+      "path": "select/06_Fest_Noz_De_Paname_Manau.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nóż",
+      "artist": "TACONAFIDE feat. Quebonafide & Taco Hemingway",
+      "has_synced": true,
+      "path": "select/07_Nóż_TACONAFIDE_feat._Quebonafide_&_Taco_Hemingway.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nóż",
+      "artist": "TACONAFIDE",
+      "has_synced": true,
+      "path": "select/08_Nóż_TACONAFIDE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "nóż motylkowy",
+      "artist": "Chivas",
+      "has_synced": true,
+      "path": "select/09_nóż_motylkowy_Chivas.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘッジホッグ (feat. 鏡音リン)",
+      "artist": "Noz.",
+      "has_synced": false,
+      "path": "select/pl_01_ヘッジホッグ_(feat._鏡音リン)_Noz..txt"
+    }
+  ]
+}
